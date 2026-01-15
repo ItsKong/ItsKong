@@ -1,7 +1,8 @@
-## 👋 Hi, I'm Pongsakorn Panompipat (Kong)
+# 👋 Hi, I'm Pongsakorn Panompipat (Kong)
 
 # 💫 About Me:
-Software engineer
+Software Engineering student at Thammasat University  
+Interested in systems, security, and real-world engineering
 
 
 # 💻 Tech Stack:
