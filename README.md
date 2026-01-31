@@ -14,9 +14,7 @@
 
 ###
 
-<div align="left">
-  [![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,go)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,go)](https://skillicons.dev)
 
 ###
 
@@ -24,8 +22,7 @@
 
 ###
 
-<div align="left">
-  [![My Skills](https://skillicons.dev/icons?i=linux,react,express,nextjs,firebase,git,docker,ubuntu,vim)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=linux,react,express,nextjs,firebase,git,docker,ubuntu,vim)](https://skillicons.dev)
+
 
 ###
